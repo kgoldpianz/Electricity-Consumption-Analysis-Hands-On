@@ -17,3 +17,6 @@ This project analyzes household and commercial power consumption records to eval
 ## Tools & Skills Used
 * **Microsoft Excel:** Data cleaning, conditional formatting, data validation, and multi-sheet relational lookups (`XLOOKUP`/`VLOOKUP`).
 * **Data Analysis:** Aggregations, conditional filtering, and structural validation.
+
+## Conclusion
+This project demonstrates how structured Excel workflows and relational lookups can effectively audit billing accuracy and segment customer consumption across multiple utility tariff tiers. By isolating high-cost tariff users and validating unit rate calculations, utility providers can ensure transparent billing, minimize revenue leakage, and better understand consumption distribution across states.
